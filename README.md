@@ -1,4 +1,5 @@
 # Obesity-Diabetes-and-Healthcare-Costs
+Title: The Burden of Obesity on Diabetes in the United States: Medical Expenditure Panel Survey, 2008 to 2012
 
 Authors: Man Yee Mallory Leung, PhD; Nils P. Carlsson, BS; Graham A. Colditz, DrPH; Su-Hsin Chang, PhD
 
